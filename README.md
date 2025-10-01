@@ -4,5 +4,5 @@ Found the coding bit easy but struggled quite a lot with git specifically with t
 
 
 
-!\[tinkercad](github.com/Cookiepro9872/git-practice/tree/main/Story1/Story1tinkercad.png)
+!\[tinkercad](https://github.com/Cookiepro9872/git-practice/blob/main/Story1/Story1tinkercad.png?raw=true)
 
